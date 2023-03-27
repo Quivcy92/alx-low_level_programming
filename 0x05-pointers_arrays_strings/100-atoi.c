@@ -9,7 +9,7 @@
 
 int _atoi(char *s)
 {
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 -fsanitize=signed-integer-overflow 100-main.c 100-atoi.c -o 100-atoiint sign = 1;
+int sign = 1;
 unsigned int num = 0;
 
 do {
