@@ -1,1 +1,1 @@
-0x0A. C - argc, argv
+0x00. C
